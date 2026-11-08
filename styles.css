@@ -1,0 +1,64 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: teal;
+    font-size: 18px;
+}
+
+.list-one {
+    color:rgb(228, 5, 5);
+    background-color: teal;
+    width: 500px;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 75px;
+    box-sizing: border-box;
+}
+
+.list-one:hover {
+    background-color: inherit;
+    color: white;
+    transform: none;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: orange;
+    ;
+}
+
+.nav {
+    color: chartreuse;
+    margin: 8px 35px;
+}
+
+.description {
+    text-align: center;
+    font-size: 20px;
+    margin: 50px 0 50px 0;
+    ;
+}
+
+img {
+    display: block;
+    margin: 50px auto 50px auto;
+    width: 450px;
+    
+}
+
+h3 {
+    margin: 50px 120px 50px;
+    color: brown;
+}
+
+.ingredients {
+    color: rgb(198, 10, 123);
+    margin: 0 60px;
+}
+
+.steps {
+    color: rgb(154, 107, 47);
+    margin: 0 60px 200px;
+
+}
